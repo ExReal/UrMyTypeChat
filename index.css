@@ -1,0 +1,20 @@
+body {background-color: #222}
+h1 {color: orangered}
+div {color: white}
+#results {width:1000px}
+#mensajero {font-size: 0.80rem; border-bottom: #222 solid 0.1rem}
+#message-madeleine {
+    width: 333px; height: auto;
+    position: relative; right: 125px;
+    padding: 0.5rem; background-color: forestgreen; 
+    margin: 0.5rem; text-align: left;
+    border-radius: 7.5px; font-size: 1.25rem;
+}
+#message-miguel {
+    width: 333px;
+    height: auto; text-align: left;
+    position: relative; left: 125px;
+    padding: 0.5rem; background-color: darkgreen;
+    margin: 0.5rem; text-align: right;
+    border-radius: 7.5px; font-size: 1.25rem;
+}

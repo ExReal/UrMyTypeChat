@@ -1,0 +1,1550 @@
+callback([
+  {
+    "text": "Hello, Hallo (1 for you, 1 for your cat)",
+    "name": "Miguel",
+    "time": "2022-03-17 18:01:09.887Z"
+  },
+  {
+    "text": "Thank you! Hello to you as Well!\nDo you want to write in English or german?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:02:13.514Z"
+  },
+  {
+    "text": "I speak way better english than german, but which ever you prefer",
+    "name": "Miguel",
+    "time": "2022-03-17 18:02:43.308Z"
+  },
+  {
+    "text": "English is okay!\nYou are a spanish man? Why are you in Austria?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:03:30.063Z"
+  },
+  {
+    "text": "I'm doing a Ausbildung in Metallurgie",
+    "name": "Miguel",
+    "time": "2022-03-17 18:05:36.812Z"
+  },
+  {
+    "text": "And when you have finished it are you staying Here?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:06:23.861Z"
+  },
+  {
+    "text": "most probably",
+    "name": "Miguel",
+    "time": "2022-03-17 18:06:44.053Z"
+  },
+  {
+    "text": "and you?",
+    "name": "Miguel",
+    "time": "2022-03-17 18:07:36.969Z"
+  },
+  {
+    "text": "have you finished studying for Krankenschewester??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:07:48.731Z"
+  },
+  {
+    "text": "That's great! Do you like it in Austria?\n\nYes, I've finished nursing school in 2019, now I'm working at a hospital",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:08:29.368Z"
+  },
+  {
+    "text": "O.O that's cool",
+    "name": "Miguel",
+    "time": "2022-03-17 18:09:01.370Z"
+  },
+  {
+    "text": "is it as stressful as it seems??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:09:14.622Z"
+  },
+  {
+    "text": "Yesss, it is 😅",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:09:40.869Z"
+  },
+  {
+    "text": "It's very challenging but I can personally grow a lot and it definetely never gets boring",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:10:50.429Z"
+  },
+  {
+    "text": "hahaha I see you like your job",
+    "name": "Miguel",
+    "time": "2022-03-17 18:11:55.462Z"
+  },
+  {
+    "text": "I learnt to like it tbh",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:12:17.217Z"
+  },
+  {
+    "text": "And you?\nDo you like Metallurgie?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:12:58.062Z"
+  },
+  {
+    "text": "learnt to?? didn't you like what you were going to do when you studied??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:13:07.643Z"
+  },
+  {
+    "text": "I Had bad experiences with other women (in school and my Last workplace)",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:13:50.464Z"
+  },
+  {
+    "text": "why??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:15:39.775Z"
+  },
+  {
+    "text": "Long story short people can be mean",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:16:34.773Z"
+  },
+  {
+    "text": "hahaha suprise suprise",
+    "name": "Miguel",
+    "time": "2022-03-17 18:16:51.569Z"
+  },
+  {
+    "text": "what did they do to you",
+    "name": "Miguel",
+    "time": "2022-03-17 18:17:03.358Z"
+  },
+  {
+    "text": "??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:17:05.157Z"
+  },
+  {
+    "text": "Nothing physically...dont want to Talk about it right now 🤔\nIt's not necessary to be mean to others, what's the Point of IT?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:20:20.880Z"
+  },
+  {
+    "text": "self ego bustong",
+    "name": "Miguel",
+    "time": "2022-03-17 18:21:39.525Z"
+  },
+  {
+    "text": "busting*",
+    "name": "Miguel",
+    "time": "2022-03-17 18:21:43.573Z"
+  },
+  {
+    "text": "boosting*",
+    "name": "Miguel",
+    "time": "2022-03-17 18:21:49.947Z"
+  },
+  {
+    "text": "most of the times",
+    "name": "Miguel",
+    "time": "2022-03-17 18:22:03.078Z"
+  },
+  {
+    "text": "Yes, and they did exactly that",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:22:08.443Z"
+  },
+  {
+    "text": "I never understood though why does people need to do it that way",
+    "name": "Miguel",
+    "time": "2022-03-17 18:22:45.712Z"
+  },
+  {
+    "text": "That's why I like cats. They never play games...as long as I don't have a toy or food in my hands 😂❤️",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:23:23.827Z"
+  },
+  {
+    "text": "To feel better when they are unhappy?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:23:55.989Z"
+  },
+  {
+    "text": "hahaha cats are cute crazy assholes full of love to give through scratches",
+    "name": "Miguel",
+    "time": "2022-03-17 18:29:53.117Z"
+  },
+  {
+    "text": "love them too",
+    "name": "Miguel",
+    "time": "2022-03-17 18:29:58.127Z"
+  },
+  {
+    "text": "and what does this cat lover nurse do right now??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:49:07.640Z"
+  },
+  {
+    "text": "That's why I love them ❤️\n\nI'm Reading a book that I bought Yesterday in Vienna\nAnd you?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:50:56.476Z"
+  },
+  {
+    "text": "finishing dinner",
+    "name": "Miguel",
+    "time": "2022-03-17 18:51:32.094Z"
+  },
+  {
+    "text": "What are you eating?",
+    "name": "Madeleine",
+    "time": "2022-03-17 18:51:53.424Z"
+  },
+  {
+    "text": "Kartoffelsalat xd",
+    "name": "Miguel",
+    "time": "2022-03-17 18:54:14.321Z"
+  },
+  {
+    "text": "uuu what is it about??",
+    "name": "Miguel",
+    "time": "2022-03-17 18:57:38.071Z"
+  },
+  {
+    "text": "Deliscious!\n\nI don't know it yet. It's in English and something about a crazy love story",
+    "name": "Madeleine",
+    "time": "2022-03-17 20:02:42.453Z"
+  },
+  {
+    "text": "haha how is it called??",
+    "name": "Miguel",
+    "time": "2022-03-17 20:03:56.491Z"
+  },
+  {
+    "text": "It has a weird name \"acts of desperation\"",
+    "name": "Madeleine",
+    "time": "2022-03-17 21:07:52.242Z"
+  },
+  {
+    "text": "",
+    "time": "2022-03-17 21:09:15.156Z"
+  },
+  {
+    "text": "this one??",
+    "name": "Miguel",
+    "time": "2022-03-17 21:09:20.444Z"
+  },
+  {
+    "text": "Yes but with an other cover",
+    "name": "Madeleine",
+    "time": "2022-03-17 21:11:17.208Z"
+  },
+  {
+    "text": "seems to be quite trending since some time ago",
+    "name": "Miguel",
+    "time": "2022-03-17 21:11:53.742Z"
+  },
+  {
+    "text": "Yes, I'll give it a shot",
+    "name": "Madeleine",
+    "time": "2022-03-18 5:16:04.079Z"
+  },
+  {
+    "text": "hii",
+    "name": "Miguel",
+    "time": "2022-03-18 12:05:44.917Z"
+  },
+  {
+    "text": "you know... knowing that we both live here in Austria, and both in Steiermark,  would you like to meet??",
+    "name": "Miguel",
+    "time": "2022-03-18 12:06:23.395Z"
+  },
+  {
+    "text": "Do you live in Knittelfeld? That's Not far away!",
+    "name": "Madeleine",
+    "time": "2022-03-18 12:59:48.726Z"
+  },
+  {
+    "text": "I technically live in Kapfenberg, aber bin jetzt in der Berufschule, wanna meet this weekend maybe??",
+    "name": "Miguel",
+    "time": "2022-03-18 14:06:04.885Z"
+  },
+  {
+    "text": "ok I didn't notice I wrote the message in both german and english",
+    "name": "Miguel",
+    "time": "2022-03-18 14:06:40.381Z"
+  },
+  {
+    "text": "sprry that I answered so late I was in class",
+    "name": "Miguel",
+    "time": "2022-03-18 14:31:41.225Z"
+  },
+  {
+    "text": "Ah Kapfenberg!\n\nYes, we could, but Not for long I have nightshift this weekend.\n\nHow funny 😂\n\nAnd your Berufsschule is in Knittelfeld?\n\nDw, I'm busy as well...at work",
+    "name": "Madeleine",
+    "time": "2022-03-18 14:45:26.010Z"
+  },
+  {
+    "text": "what time can you at??",
+    "name": "Miguel",
+    "time": "2022-03-18 14:46:48.647Z"
+  },
+  {
+    "text": "Not am, I sleep very Long. And pm?\nAnd where would you like to meet?",
+    "name": "Madeleine",
+    "time": "2022-03-18 14:48:38.952Z"
+  },
+  {
+    "text": "Are you an extrovert? Enfp",
+    "name": "Madeleine",
+    "time": "2022-03-18 14:48:57.326Z"
+  },
+  {
+    "text": "I should, but sometimes I can trust those tests cause depending on my mood I end up as introvert or extrovert",
+    "name": "Miguel",
+    "time": "2022-03-18 14:49:55.987Z"
+  },
+  {
+    "text": "So you are a mix technically\n\nAt the original Website of 12 personalities I was an INFJ and on this app I'm an ISFP?",
+    "name": "Madeleine",
+    "time": "2022-03-18 14:52:49.567Z"
+  },
+  {
+    "text": "hahaha in 12personalities I'm sometimes an ENFP and others a INFP",
+    "name": "Miguel",
+    "time": "2022-03-18 14:53:43.491Z"
+  },
+  {
+    "text": "some intermidiate point",
+    "name": "Miguel",
+    "time": "2022-03-18 14:54:08.999Z"
+  },
+  {
+    "text": "you live in Leoben right??",
+    "name": "Miguel",
+    "time": "2022-03-18 14:54:40.040Z"
+  },
+  {
+    "text": "maybe Niklasdorf or Bruck?? or Kapfenberg itself or Leoben itself???",
+    "name": "Miguel",
+    "time": "2022-03-18 14:55:48.626Z"
+  },
+  {
+    "text": "we are not that far",
+    "name": "Miguel",
+    "time": "2022-03-18 14:55:55.883Z"
+  },
+  {
+    "text": "maybe can we go eat something for lunch??",
+    "name": "Miguel",
+    "time": "2022-03-18 14:56:19.040Z"
+  },
+  {
+    "text": "Nope, i just Work there. I'm fromm Judenburg",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:05:43.218Z"
+  },
+  {
+    "text": "oh",
+    "name": "Miguel",
+    "time": "2022-03-18 15:06:21.157Z"
+  },
+  {
+    "text": "maybe we could meet at leoben for lunch so you are next to your job if you have nightshift",
+    "name": "Miguel",
+    "time": "2022-03-18 15:08:08.034Z"
+  },
+  {
+    "text": "Mhh.. that's Not a Bad Idea actually",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:11:04.861Z"
+  },
+  {
+    "text": "Where are you now, just wondering",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:11:19.829Z"
+  },
+  {
+    "text": "I've finished work",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:11:28.389Z"
+  },
+  {
+    "text": "on knittelfeld still, wanna meet today?? my train to kapfenberg at 5, I have classes until 4, and then move back to kapfenberg for the weekend",
+    "name": "Miguel",
+    "time": "2022-03-18 15:14:12.446Z"
+  },
+  {
+    "text": "We could ...\nWhere?",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:15:58.062Z"
+  },
+  {
+    "text": "you at leoben right now or where??",
+    "name": "Miguel",
+    "time": "2022-03-18 15:16:26.670Z"
+  },
+  {
+    "text": "I just wann say I hate Meeting someone for the first time it's Always so akward 😂",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:16:31.701Z"
+  },
+  {
+    "text": "Hospital but I'm about to drive home",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:16:54.129Z"
+  },
+  {
+    "text": "maybe you could come here (to make some time) and we go eat something somewhere",
+    "name": "Miguel",
+    "time": "2022-03-18 15:16:55.400Z"
+  },
+  {
+    "text": "So I News an anderer quick",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:17:01.681Z"
+  },
+  {
+    "text": "ok das have ich nicht verstanden xD",
+    "name": "Miguel",
+    "time": "2022-03-18 15:17:28.358Z"
+  },
+  {
+    "text": "habe*",
+    "name": "Miguel",
+    "time": "2022-03-18 15:17:32.740Z"
+  },
+  {
+    "text": "Actually I need to get some groceries. And my Bf is waiting for me",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:17:46.821Z"
+  },
+  {
+    "text": "ok",
+    "name": "Miguel",
+    "time": "2022-03-18 15:18:00.009Z"
+  },
+  {
+    "text": "Autokorrektur\nI need an answer quickly",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:18:25.341Z"
+  },
+  {
+    "text": "that's a shame for today",
+    "name": "Miguel",
+    "time": "2022-03-18 15:19:19.026Z"
+  },
+  {
+    "text": "than maybe tomorrow?",
+    "name": "Miguel",
+    "time": "2022-03-18 15:19:33.255Z"
+  },
+  {
+    "text": "so am I",
+    "name": "Miguel",
+    "time": "2022-03-18 15:19:55.157Z"
+  },
+  {
+    "text": "🤣🤣",
+    "name": "Miguel",
+    "time": "2022-03-18 15:19:58.550Z"
+  },
+  {
+    "text": "What do you think...",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:22:23.422Z"
+  },
+  {
+    "text": "about?",
+    "name": "Miguel",
+    "time": "2022-03-18 15:25:00.622Z"
+  },
+  {
+    "text": "Is it a good idea to meet today? I could drive you to the train station",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:28:23.136Z"
+  },
+  {
+    "text": "if your bf is waiting for you you shouldn't make him wait",
+    "name": "Miguel",
+    "time": "2022-03-18 15:29:06.806Z"
+  },
+  {
+    "text": "maybe is a better idea tomorrow",
+    "name": "Miguel",
+    "time": "2022-03-18 15:29:37.469Z"
+  },
+  {
+    "text": "I don't know",
+    "name": "Miguel",
+    "time": "2022-03-18 15:29:46.278Z"
+  },
+  {
+    "text": "You are right. I'm scared for him to get mad",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:30:36.530Z"
+  },
+  {
+    "text": "hahahaha jealous??",
+    "name": "Miguel",
+    "time": "2022-03-18 15:30:47.493Z"
+  },
+  {
+    "text": "Mhhh yes",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:31:18.463Z"
+  },
+  {
+    "text": "du kannst ihm mitbringen xD",
+    "name": "Miguel",
+    "time": "2022-03-18 15:31:27.743Z"
+  },
+  {
+    "text": "2 new friends are better than 1",
+    "name": "Miguel",
+    "time": "2022-03-18 15:31:43.341Z"
+  },
+  {
+    "text": "That's a great Idea If you don't mind",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:32:31.037Z"
+  },
+  {
+    "text": "hahaha why would I??",
+    "name": "Miguel",
+    "time": "2022-03-18 15:32:56.970Z"
+  },
+  {
+    "text": "so today or tomorrow??",
+    "name": "Miguel",
+    "time": "2022-03-18 15:33:12.681Z"
+  },
+  {
+    "text": "Don't know",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:33:17.985Z"
+  },
+  {
+    "text": "have you already the groceries you needed??",
+    "name": "Miguel",
+    "time": "2022-03-18 15:33:59.594Z"
+  },
+  {
+    "text": "Can't write now i have to drive",
+    "name": "Madeleine",
+    "time": "2022-03-18 15:34:02.670Z"
+  },
+  {
+    "text": "sure",
+    "name": "Miguel",
+    "time": "2022-03-18 15:34:09.840Z"
+  },
+  {
+    "text": "I still have 30 minuts more of classes",
+    "name": "Miguel",
+    "time": "2022-03-18 15:34:35.508Z"
+  },
+  {
+    "text": "und dann muss ich alle aufäumen und meine Sachen nehmen",
+    "name": "Miguel",
+    "time": "2022-03-18 15:36:27.628Z"
+  },
+  {
+    "text": "I should be ready about 16:15, if you two wanna meet today, just tell me",
+    "name": "Miguel",
+    "time": "2022-03-18 15:36:58.639Z"
+  },
+  {
+    "text": "I think today is to rushed",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:04:01.471Z"
+  },
+  {
+    "text": "ok then you tell me when",
+    "name": "Miguel",
+    "time": "2022-03-18 16:04:32.906Z"
+  },
+  {
+    "text": "Is it possible for you to come to Judenburg tomorrow or is that to far away?",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:05:08.734Z"
+  },
+  {
+    "text": "I'm free ln weekends",
+    "name": "Miguel",
+    "time": "2022-03-18 16:05:19.086Z"
+  },
+  {
+    "text": "mmm I'll need to see the train that gets me there",
+    "name": "Miguel",
+    "time": "2022-03-18 16:05:48.158Z"
+  },
+  {
+    "text": "but I think is okay",
+    "name": "Miguel",
+    "time": "2022-03-18 16:05:56.423Z"
+  },
+  {
+    "text": "what time??",
+    "name": "Miguel",
+    "time": "2022-03-18 16:06:04.544Z"
+  },
+  {
+    "text": "Maybe 3pm?",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:19:02.549Z"
+  },
+  {
+    "text": "sounds good for me",
+    "name": "Miguel",
+    "time": "2022-03-18 16:19:17.740Z"
+  },
+  {
+    "text": "meet at the station??",
+    "name": "Miguel",
+    "time": "2022-03-18 16:19:41.404Z"
+  },
+  {
+    "text": "Aber es ist noch nicht fix, muss erst fragen ob es ok ist 😅",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:19:51.770Z"
+  },
+  {
+    "text": "I'll Tell you later",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:19:59.047Z"
+  },
+  {
+    "text": "ja sicher xD",
+    "name": "Miguel",
+    "time": "2022-03-18 16:20:08.860Z"
+  },
+  {
+    "text": "Anyway what brought you to this app?",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:20:10.700Z"
+  },
+  {
+    "text": "wanna make friends everywhere possible",
+    "name": "Miguel",
+    "time": "2022-03-18 16:20:34.858Z"
+  },
+  {
+    "text": "maybe find a casual unexpected love, but not really looking for it directly",
+    "name": "Miguel",
+    "time": "2022-03-18 16:21:54.490Z"
+  },
+  {
+    "text": "and you?? habing a bf what brought you here??",
+    "name": "Miguel",
+    "time": "2022-03-18 16:21:59.188Z"
+  },
+  {
+    "text": "having*",
+    "name": "Miguel",
+    "time": "2022-03-18 16:22:05.467Z"
+  },
+  {
+    "text": "Hattest du damit schon Erfolg?\n\nSame as you, looking for new and meaningful friendships",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:25:48.075Z"
+  },
+  {
+    "text": "My best friend recommended it to me, she lives in Vienna",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:26:21.193Z"
+  },
+  {
+    "text": "ja sicher, habe schon ein Paar Freunde in Egypt and Serbia gefunden",
+    "name": "Miguel",
+    "time": "2022-03-18 16:26:55.036Z"
+  },
+  {
+    "text": "is quite a good app so far I may say",
+    "name": "Miguel",
+    "time": "2022-03-18 16:27:11.153Z"
+  },
+  {
+    "text": "at least different from the resto",
+    "name": "Miguel",
+    "time": "2022-03-18 16:27:23.526Z"
+  },
+  {
+    "text": "rest*",
+    "name": "Miguel",
+    "time": "2022-03-18 16:27:26.834Z"
+  },
+  {
+    "text": "and you?? any success?",
+    "name": "Miguel",
+    "time": "2022-03-18 16:28:09.648Z"
+  },
+  {
+    "text": "Wow, that's far away. I want to find Friends in der Nähe\n\nYes, I think so too\n\nI have it since Yesterday so no Results yet 😂",
+    "name": "Madeleine",
+    "time": "2022-03-18 16:40:13.969Z"
+  },
+  {
+    "text": "🤣🤣",
+    "name": "Miguel",
+    "time": "2022-03-18 16:40:37.783Z"
+  },
+  {
+    "text": "yeah when you have it as only Friendship goes hugely slower that of knowing people",
+    "name": "Miguel",
+    "time": "2022-03-18 16:41:46.773Z"
+  },
+  {
+    "text": "Yes it does",
+    "name": "Madeleine",
+    "time": "2022-03-18 19:25:28.081Z"
+  },
+  {
+    "text": "I asked my bf, it's okay for him and He want to join.\nMorgen Judenburg? When does the train arrive?",
+    "name": "Madeleine",
+    "time": "2022-03-18 19:49:28.153Z"
+  },
+  {
+    "text": "",
+    "time": "2022-03-18 19:54:33.395Z"
+  },
+  {
+    "text": "should be there at 3 o'clock",
+    "name": "Miguel",
+    "time": "2022-03-18 19:54:50.247Z"
+  },
+  {
+    "text": "Ok, we'll Pick you up.\nWe could go to the Dieselkino in the Arena and grab some drinks 😊",
+    "name": "Madeleine",
+    "time": "2022-03-18 19:55:57.841Z"
+  },
+  {
+    "text": "sounds like a plan 😁",
+    "name": "Miguel",
+    "time": "2022-03-18 20:08:56.657Z"
+  },
+  {
+    "text": "Yes! Wie lang hast du Zeit?",
+    "name": "Madeleine",
+    "time": "2022-03-18 20:27:56.471Z"
+  },
+  {
+    "text": "the whole day xD",
+    "name": "Miguel",
+    "time": "2022-03-18 20:30:41.617Z"
+  },
+  {
+    "text": "and you two??",
+    "name": "Miguel",
+    "time": "2022-03-18 20:32:25.972Z"
+  },
+  {
+    "text": "I have to drive to work at 6pm",
+    "name": "Madeleine",
+    "time": "2022-03-18 20:44:56.455Z"
+  },
+  {
+    "text": "ok",
+    "name": "Miguel",
+    "time": "2022-03-18 20:45:19.997Z"
+  },
+  {
+    "text": "I'm on my way",
+    "name": "Miguel",
+    "time": "2022-03-19 13:51:00.501Z"
+  },
+  {
+    "text": "should be there in 1 hour",
+    "name": "Miguel",
+    "time": "2022-03-19 13:51:08.636Z"
+  },
+  {
+    "text": "Ok!",
+    "name": "Madeleine",
+    "time": "2022-03-19 14:24:51.335Z"
+  },
+  {
+    "text": "already at leoben, I supposedly be there en 33 min",
+    "name": "Miguel",
+    "time": "2022-03-19 14:26:16.526Z"
+  },
+  {
+    "text": "Ich mache mich auch auf den Weg!",
+    "name": "Madeleine",
+    "time": "2022-03-19 14:49:44.706Z"
+  },
+  {
+    "text": "ok!",
+    "name": "Miguel",
+    "time": "2022-03-19 14:50:02.483Z"
+  },
+  {
+    "text": "Bin da!",
+    "name": "Madeleine",
+    "time": "2022-03-19 14:56:31.236Z"
+  },
+  {
+    "text": "Warte beim Eingang",
+    "name": "Madeleine",
+    "time": "2022-03-19 14:56:39.815Z"
+  },
+  {
+    "text": "ok! almost there",
+    "name": "Miguel",
+    "time": "2022-03-19 14:56:56.466Z"
+  },
+  {
+    "text": "uhh how do I see the thing of the humor quiz??",
+    "name": "Miguel",
+    "time": "2022-03-23 21:04:01.797Z"
+  },
+  {
+    "text": "It's new, go to 'matches' then on a profile and on the smiley face",
+    "name": "Madeleine",
+    "time": "2022-03-23 21:09:05.863Z"
+  },
+  {
+    "text": "😅 needed to update the app",
+    "name": "Miguel",
+    "time": "2022-03-23 21:13:38.761Z"
+  },
+  {
+    "text": "done xD 58% similar sense of humor xD",
+    "name": "Miguel",
+    "time": "2022-03-23 21:13:52.910Z"
+  },
+  {
+    "text": "Its easy to make me laugh",
+    "name": "Miguel",
+    "time": "2022-03-23 21:14:24.437Z"
+  },
+  {
+    "text": "I see 😂",
+    "name": "Madeleine",
+    "time": "2022-03-23 21:14:49.635Z"
+  },
+  {
+    "text": "Pineapple pizza, yes or no?",
+    "name": "Madeleine",
+    "time": "2022-04-10 17:32:59.540Z"
+  },
+  {
+    "text": "yes",
+    "name": "Miguel",
+    "time": "2022-04-10 17:40:11.571Z"
+  },
+  {
+    "text": "you?",
+    "name": "Miguel",
+    "time": "2022-04-10 17:40:55.018Z"
+  },
+  {
+    "text": "No 😅",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:34:53.765Z"
+  },
+  {
+    "text": "xD",
+    "name": "Miguel",
+    "time": "2022-04-10 18:35:10.275Z"
+  },
+  {
+    "text": "Write 2 truths and 1 lie about yourself and let your match guess which one is the lie!",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:35:19.007Z"
+  },
+  {
+    "text": "mmmm",
+    "name": "Miguel",
+    "time": "2022-04-10 18:37:43.723Z"
+  },
+  {
+    "text": "I've lived in 4 countries, but visited 6",
+    "name": "Miguel",
+    "time": "2022-04-10 18:40:34.260Z"
+  },
+  {
+    "text": "My first girlfriend I got it at 6yo and was 2 years older than me",
+    "name": "Miguel",
+    "time": "2022-04-10 18:41:08.090Z"
+  },
+  {
+    "text": "I like regeton",
+    "name": "Miguel",
+    "time": "2022-04-10 18:42:16.884Z"
+  },
+  {
+    "text": "What's regeton?",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:51:41.148Z"
+  },
+  {
+    "text": "Reggeaton",
+    "name": "Miguel",
+    "time": "2022-04-10 18:52:42.281Z"
+  },
+  {
+    "text": "",
+    "name": "Miguel",
+    "time": "2022-04-10 18:53:20.257Z"
+  },
+  {
+    "text": "I think Number one is a lie 🤔",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:54:24.144Z"
+  },
+  {
+    "text": "nope",
+    "name": "Miguel",
+    "time": "2022-04-10 18:54:51.734Z"
+  },
+  {
+    "text": "Number 2?",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:55:31.593Z"
+  },
+  {
+    "text": "nope",
+    "name": "Miguel",
+    "time": "2022-04-10 18:55:35.864Z"
+  },
+  {
+    "text": "In wich countries have you lived in?",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:55:50.304Z"
+  },
+  {
+    "text": "Venezuela, Spain, Luxembourg and Austria",
+    "name": "Miguel",
+    "time": "2022-04-10 18:56:03.402Z"
+  },
+  {
+    "text": "Number 3 ist false??? Damnnit",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:56:08.532Z"
+  },
+  {
+    "text": "yeap, I HATE regeton, with all my soul",
+    "name": "Miguel",
+    "time": "2022-04-10 18:56:25.346Z"
+  },
+  {
+    "text": "I thought you like music so it could be right",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:56:37.257Z"
+  },
+  {
+    "text": "hahahah yeah but i barely consider regeton as music",
+    "name": "Miguel",
+    "time": "2022-04-10 18:57:02.741Z"
+  },
+  {
+    "text": "What drives you crazy?",
+    "name": "Miguel",
+    "time": "2022-04-10 18:58:00.330Z"
+  },
+  {
+    "text": "So...Spot the lie\n\n1. I Had a weeb Phase, my whole room was covered in Naruto posters\n2. I Had my First Kiss when I was 17\n3. I was Always the popular Kid in school",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:58:54.608Z"
+  },
+  {
+    "text": "3 is the lie",
+    "name": "Miguel",
+    "time": "2022-04-10 18:59:20.623Z"
+  },
+  {
+    "text": "Damn...how did you know? 😂😂",
+    "name": "Madeleine",
+    "time": "2022-04-10 18:59:39.609Z"
+  },
+  {
+    "text": "Introverted and popular do not go together most of the time xD",
+    "name": "Miguel",
+    "time": "2022-04-10 19:00:02.629Z"
+  },
+  {
+    "text": "Yesss...you are right 🤔😂",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:00:29.000Z"
+  },
+  {
+    "text": "Were you the popular kid",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:00:41.098Z"
+  },
+  {
+    "text": "?",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:00:49.393Z"
+  },
+  {
+    "text": "not quite",
+    "name": "Miguel",
+    "time": "2022-04-10 19:00:55.491Z"
+  },
+  {
+    "text": "but did not also go unseen",
+    "name": "Miguel",
+    "time": "2022-04-10 19:01:06.010Z"
+  },
+  {
+    "text": "So in the middle",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:01:15.914Z"
+  },
+  {
+    "text": "yeap",
+    "name": "Miguel",
+    "time": "2022-04-10 19:01:23.310Z"
+  },
+  {
+    "text": "How Long did your First relationship Last?",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:01:53.051Z"
+  },
+  {
+    "text": "(Btw people and what they do Drive me crazy)",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:02:27.180Z"
+  },
+  {
+    "text": "like 3 years",
+    "name": "Miguel",
+    "time": "2022-04-10 19:02:50.930Z"
+  },
+  {
+    "text": "hahaha explain a bit more pls",
+    "name": "Miguel",
+    "time": "2022-04-10 19:03:14.443Z"
+  },
+  {
+    "text": "Really? 3 years??? That's long",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:03:33.796Z"
+  },
+  {
+    "text": "yeah, then I moved and was painful af",
+    "name": "Miguel",
+    "time": "2022-04-10 19:04:15.451Z"
+  },
+  {
+    "text": "My neighbours leaving their newspapers in the corridor for Others to throw it away f.e.",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:04:33.897Z"
+  },
+  {
+    "text": "Oh No 😥",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:04:49.120Z"
+  },
+  {
+    "text": "people does also drive me crazy, mostly when they don't wanna accept they are wrong",
+    "name": "Miguel",
+    "time": "2022-04-10 19:05:03.223Z"
+  },
+  {
+    "text": "Were there any Girls afterwards?",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:05:07.135Z"
+  },
+  {
+    "text": "oh",
+    "name": "Miguel",
+    "time": "2022-04-10 19:05:29.097Z"
+  },
+  {
+    "text": "Yes...when they are dumb and stubborn",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:05:34.115Z"
+  },
+  {
+    "text": "many... too many",
+    "name": "Miguel",
+    "time": "2022-04-10 19:05:41.838Z"
+  },
+  {
+    "text": "Tell me 😎",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:05:51.938Z"
+  },
+  {
+    "text": "You don't seem Like a Womanizer",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:06:10.309Z"
+  },
+  {
+    "text": "hahaha but in fact I've been",
+    "name": "Miguel",
+    "time": "2022-04-10 19:06:28.833Z"
+  },
+  {
+    "text": "Is there a saying about spanish men? Like Italian men?",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:07:43.839Z"
+  },
+  {
+    "text": "not that I remember xd",
+    "name": "Miguel",
+    "time": "2022-04-10 19:36:02.478Z"
+  },
+  {
+    "text": "don't feel that comfortable nor proud talking about it",
+    "name": "Miguel",
+    "time": "2022-04-10 19:36:31.756Z"
+  },
+  {
+    "text": "That's ok...I also have some memories I'd Like to forget",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:58:32.723Z"
+  },
+  {
+    "text": "I Like your Attitude",
+    "name": "Madeleine",
+    "time": "2022-04-10 19:59:17.904Z"
+  },
+  {
+    "text": "why?",
+    "name": "Miguel",
+    "time": "2022-04-10 20:04:57.279Z"
+  },
+  {
+    "text": "I think because that's a mature way of thinking, isn't it?",
+    "name": "Madeleine",
+    "time": "2022-04-10 20:17:13.191Z"
+  },
+  {
+    "text": "mmm maybe",
+    "name": "Miguel",
+    "time": "2022-04-10 20:17:37.623Z"
+  },
+  {
+    "text": "What is a crazy thing you did as a child?",
+    "name": "Madeleine",
+    "time": "2022-04-10 20:37:12.537Z"
+  },
+  {
+    "text": "Break Dance in fromt of my classroom while having no idea about how breakdance",
+    "name": "Miguel",
+    "time": "2022-04-11 8:39:36.701Z"
+  },
+  {
+    "text": "you??",
+    "name": "Miguel",
+    "time": "2022-04-11 8:39:39.965Z"
+  },
+  {
+    "text": "When I was young I remember I wanted to have my own little chicken. So I took an Egg from the fridge and kept it Hidden away from my mum in some blankets.\nAfter a few days later I lost the Patience and I took the egg Back Into the fridge 😂",
+    "name": "Madeleine",
+    "time": "2022-04-13 12:06:19.923Z"
+  },
+  {
+    "text": "If you could change anything about the way you were raised, what would it be?",
+    "name": "Miguel",
+    "time": "2022-05-13 20:17:50.563Z"
+  },
+  {
+    "text": "What drives you crazy?",
+    "name": "Miguel",
+    "time": "2022-06-26 22:07:37.634Z"
+  },
+  {
+    "text": "I'd Change: my parents Raising me  more confident, my mom being not so avoidant when it comes to conflicts",
+    "name": "Madeleine",
+    "time": "2022-06-26 22:53:20.683Z"
+  },
+  {
+    "text": "And you?",
+    "name": "Madeleine",
+    "time": "2022-06-26 22:53:25.754Z"
+  },
+  {
+    "text": "This drives me crazy: other people",
+    "name": "Madeleine",
+    "time": "2022-06-26 22:53:45.177Z"
+  },
+  {
+    "text": "I'd change: my dad to existing",
+    "name": "Miguel",
+    "time": "2022-07-03 10:20:05.153Z"
+  },
+  {
+    "text": "😂😂 I hope I drive you crazy but in other way",
+    "name": "Miguel",
+    "time": "2022-07-03 10:20:31.860Z"
+  },
+  {
+    "text": "🥲",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:46:07.811Z"
+  },
+  {
+    "text": "You do 😂😏",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:46:31.345Z"
+  },
+  {
+    "text": "😏😏😏",
+    "name": "Miguel",
+    "time": "2022-07-04 21:46:45.579Z"
+  },
+  {
+    "text": "What would your job be if money wasn’t an issue?",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:46:49.663Z"
+  },
+  {
+    "text": "What is one thing you did that you will never do again?",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:47:08.643Z"
+  },
+  {
+    "text": "1) Game Designer",
+    "name": "Miguel",
+    "time": "2022-07-04 21:47:55.281Z"
+  },
+  {
+    "text": "2) Love someone other than me",
+    "name": "Miguel",
+    "time": "2022-07-04 21:48:05.061Z"
+  },
+  {
+    "text": "you??",
+    "name": "Miguel",
+    "time": "2022-07-04 21:48:12.080Z"
+  },
+  {
+    "text": "Why? 😅",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:48:38.705Z"
+  },
+  {
+    "text": "why would I expose myself so uselessly?? 😅😅",
+    "name": "Miguel",
+    "time": "2022-07-04 21:49:05.761Z"
+  },
+  {
+    "text": "1) I'd be creative, crocheting for example 🤔 Or staying a nurse but Not 100%",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:49:18.103Z"
+  },
+  {
+    "text": "It's about TRUST",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:49:46.704Z"
+  },
+  {
+    "text": "2) A LOT but I can't name it right now 😅",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:50:13.663Z"
+  },
+  {
+    "text": "xD you can already do that xD I doubt money is a problem for you xD stress maybe",
+    "name": "Miguel",
+    "time": "2022-07-04 21:50:16.691Z"
+  },
+  {
+    "text": "exactly",
+    "name": "Miguel",
+    "time": "2022-07-04 21:50:33.454Z"
+  },
+  {
+    "text": "Money for retirement, ...🤔",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:50:41.847Z"
+  },
+  {
+    "text": "When did you get this kind of thinking? 🤔",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:51:15.928Z"
+  },
+  {
+    "text": "always had it",
+    "name": "Miguel",
+    "time": "2022-07-04 21:56:02.918Z"
+  },
+  {
+    "text": "🤔🤔🤔",
+    "name": "Miguel",
+    "time": "2022-07-04 21:56:33.722Z"
+  },
+  {
+    "text": "You deserve to be Loved, you DO",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:57:26.708Z"
+  },
+  {
+    "text": "And you are loved",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:57:36.744Z"
+  },
+  {
+    "text": "Just open your heart to the ones who deserve it",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:57:57.044Z"
+  },
+  {
+    "text": "one day I'll translate a book I have, and let you read it",
+    "name": "Miguel",
+    "time": "2022-07-04 21:59:25.555Z"
+  },
+  {
+    "text": "I'm Sure you have a lot of love to give",
+    "name": "Madeleine",
+    "time": "2022-07-04 21:59:52.223Z"
+  },
+  {
+    "text": "What book?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:00:06.724Z"
+  },
+  {
+    "text": "family doesn't count",
+    "name": "Miguel",
+    "time": "2022-07-04 22:00:30.530Z"
+  },
+  {
+    "text": "no, everytime I open it, what clmes out is hatred and anger",
+    "name": "Miguel",
+    "time": "2022-07-04 22:01:05.175Z"
+  },
+  {
+    "text": "one I write with my story",
+    "name": "Miguel",
+    "time": "2022-07-04 22:01:23.352Z"
+  },
+  {
+    "text": "They Count the MOST",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:02:07.014Z"
+  },
+  {
+    "text": "not in THAT kind of love",
+    "name": "Miguel",
+    "time": "2022-07-04 22:02:38.033Z"
+  },
+  {
+    "text": "Then those were not the right people",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:02:41.033Z"
+  },
+  {
+    "text": "Like a Biografie?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:02:58.242Z"
+  },
+  {
+    "text": "yeah more or less",
+    "name": "Miguel",
+    "time": "2022-07-04 22:03:06.221Z"
+  },
+  {
+    "text": "Sounds amazing, I'd love to hear your Story :)",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:03:25.516Z"
+  },
+  {
+    "text": "más o menos?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:03:47.148Z"
+  },
+  {
+    "text": "yeah",
+    "name": "Miguel",
+    "time": "2022-07-04 22:04:02.512Z"
+  },
+  {
+    "text": "nah it's a victimalistic story",
+    "name": "Miguel",
+    "time": "2022-07-04 22:04:18.485Z"
+  },
+  {
+    "text": "You Heard about my past the Last Time, everybody gets Hurt sometimes :(",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:04:43.583Z"
+  },
+  {
+    "text": "or I'm too full of it to give love when opening it",
+    "name": "Miguel",
+    "time": "2022-07-04 22:05:02.561Z"
+  },
+  {
+    "text": "How do you show love?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:05:44.290Z"
+  },
+  {
+    "text": "Idk anymore",
+    "name": "Miguel",
+    "time": "2022-07-04 22:05:57.324Z"
+  },
+  {
+    "text": "You can be really romantic, you know? Like singing and Holding on tight while Dancing <3",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:07:00.141Z"
+  },
+  {
+    "text": "hahaha yeah with people already taken",
+    "name": "Miguel",
+    "time": "2022-07-04 22:07:59.490Z"
+  },
+  {
+    "text": "i dont even know why did I do simething like that",
+    "name": "Miguel",
+    "time": "2022-07-04 22:08:36.855Z"
+  },
+  {
+    "text": "with what purpose",
+    "name": "Miguel",
+    "time": "2022-07-04 22:08:49.125Z"
+  },
+  {
+    "text": "??",
+    "name": "Miguel",
+    "time": "2022-07-04 22:08:51.805Z"
+  },
+  {
+    "text": "You seem depeessed :(",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:10:04.585Z"
+  },
+  {
+    "text": "I'm ok, just calming down some anger someone else caused me",
+    "name": "Miguel",
+    "time": "2022-07-04 22:11:19.426Z"
+  },
+  {
+    "text": "Who caused you Anger?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:11:37.091Z"
+  },
+  {
+    "text": "a friend",
+    "name": "Miguel",
+    "time": "2022-07-04 22:11:52.853Z"
+  },
+  {
+    "text": "Why?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:11:58.111Z"
+  },
+  {
+    "text": "How?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:12:04.471Z"
+  },
+  {
+    "text": "she's going back to Venezuela and doesn't want to look to other sides for option, and gets mad at me when I point them, and makes me a show of why I did not get a job in spain and other personal stuff",
+    "name": "Miguel",
+    "time": "2022-07-04 22:14:06.771Z"
+  },
+  {
+    "text": "What were other options?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:17:59.122Z"
+  },
+  {
+    "text": "But you would have stayed in Spain If you could have gotten a job there, wpuldn't you?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:19:41.882Z"
+  },
+  {
+    "text": "Why did she get so personal then?",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:20:15.284Z"
+  },
+  {
+    "text": "go to any other country in the world, ask the family and friends that she always brags about because they did got jobs in mainland so they can help her pay the ticket and the residence until she gets a job, etc",
+    "name": "Miguel",
+    "time": "2022-07-04 22:20:56.064Z"
+  },
+  {
+    "text": "maybe, depending if that job was enough for surviving and the Vertrag fair",
+    "name": "Miguel",
+    "time": "2022-07-04 22:21:30.518Z"
+  },
+  {
+    "text": "because she's been suffering to go forward trying to maintain her whole family without being able to survive herself and meanwhile I am here, maintaining myself and barely (as much as I can) helping my mother who always gave her all to make me go forward",
+    "name": "Miguel",
+    "time": "2022-07-04 22:22:58.147Z"
+  },
+  {
+    "text": "and I told her, how would someone dare maintain somebody else when they cannont even survive alone?",
+    "name": "Miguel",
+    "time": "2022-07-04 22:23:28.794Z"
+  },
+  {
+    "text": "Would be good Options 🤔",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:25:46.462Z"
+  },
+  {
+    "text": "yeah but she says she's not going to ask anyone for money nor help",
+    "name": "Miguel",
+    "time": "2022-07-04 22:26:16.917Z"
+  },
+  {
+    "text": "cause she'd be like a parasite",
+    "name": "Miguel",
+    "time": "2022-07-04 22:26:29.329Z"
+  },
+  {
+    "text": "You can't pour from an empty cup",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:27:10.673Z"
+  },
+  {
+    "text": "exactly",
+    "name": "Miguel",
+    "time": "2022-07-04 22:27:29.817Z"
+  },
+  {
+    "text": "but she doesn't want to understand that",
+    "name": "Miguel",
+    "time": "2022-07-04 22:27:40.917Z"
+  },
+  {
+    "text": "If she doesn't want to listen you can't Help her, you can't force her :(",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:28:46.922Z"
+  },
+  {
+    "text": "no, and I won't try anymore",
+    "name": "Miguel",
+    "time": "2022-07-04 22:31:56.416Z"
+  },
+  {
+    "text": "It's sad but it's her decision, and it's Not your fault for living your own life and trying to make the best Out of it (like moving to an other country with better oportunities)",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:33:53.167Z"
+  },
+  {
+    "text": "I really hate to try to help someone in the few ocassions I do so and being rejected and shown my mistakes as if they were an obstacle to help",
+    "name": "Miguel",
+    "time": "2022-07-04 22:37:40.437Z"
+  },
+  {
+    "text": "You can just give your advice and it's her Turn if she wants to listen or Not. Blaming the other for their \"mistakes\" is Not really nice.",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:40:04.353Z"
+  },
+  {
+    "text": "Don't think about it to much. Try and get some Rest. Good night!",
+    "name": "Madeleine",
+    "time": "2022-07-04 22:49:17.305Z"
+  },
+  {
+    "text": "yeah but it's hard to see people going max speed against a stone and not try to push the brakes for them",
+    "name": "Miguel",
+    "time": "2022-07-04 22:49:51.541Z"
+  },
+  {
+    "text": "good night xD I'll need that rest",
+    "name": "Miguel",
+    "time": "2022-07-04 22:50:09.379Z"
+  },
+  {
+    "text": "You can only try 😅",
+    "name": "Madeleine",
+    "time": "2022-07-13 19:53:49.261Z"
+  },
+  {
+    "text": "or throw the stone at them xD",
+    "name": "Miguel",
+    "time": "2022-07-13 19:55:05.941Z"
+  }
+]);
