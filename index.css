@@ -2,7 +2,12 @@ body {background-color: #222}
 h1 {color: orangered}
 div {color: white}
 #results {width:1000px}
-#mensajero {font-size: 0.80rem; border-bottom: #222 solid 0.1rem}
+#mensajero {font-size: 0.8rem; border-bottom: #222 solid 0.1rem}
+#time-1, #time-2 {
+    font-size: 0.8rem; border-top: #222 solid 0.1rem; 
+    text-align: right; margin 1rem;}
+#time-1 {text-align: left}
+#time-2 {text-align: right}
 #message-madeleine {
     width: 333px; height: auto;
     position: relative; right: 125px;
